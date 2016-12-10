@@ -48,6 +48,9 @@
                                         </constraints>
                                         <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                         <state key="normal" image="dealbutton"/>
+                                        <connections>
+                                            <action selector="dealTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nNW-9I-sau"/>
+                                        </connections>
                                     </button>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="equalCentering" alignment="top" spacing="25" translatesAutoresizingMaskIntoConstraints="NO" id="Rdu-nV-uyw" userLabel="ScoreLabelStackView">
                                         <subviews>
@@ -96,6 +99,12 @@
                             <constraint firstItem="uVI-T6-Lgj" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="toG-96-Sxs"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="LeftImageView" destination="nsl-6m-ckW" id="ekW-Lr-gFI"/>
+                        <outlet property="LeftScoreLaber" destination="hQK-Ty-NPC" id="eWo-go-bbF"/>
+                        <outlet property="RightImageView" destination="054-Kl-Bjk" id="I5j-0e-LKL"/>
+                        <outlet property="RightScoreLabel" destination="O6E-uH-8AZ" id="Wyi-eC-qDc"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
