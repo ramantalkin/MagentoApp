@@ -7,5 +7,6 @@ Format: ![Alt Text](url)
 
 ##Developer
 
-###IOS-APP: Sakal Andrej
-[GitHub](http://github.com/SakalAndrej)
+###[IOS-APP: Sakal Andrej](http://github.com/SakalAndrej)
+
+###[Android-APP: Hofman Felix](#)
