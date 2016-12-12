@@ -1,4 +1,6 @@
-# Welcome to the intelligent MagentoApp
+<h1 align="center">
+  Welcome to the intelligent MagentoApp
+</h1>
 
 ![ConnectMe ECommerce Logo](/Documents/Logos/ConnectMeLogo.png)
 
