@@ -1,5 +1,7 @@
 # Welcome to the intelligent MagentoApp
 
+![ConnectMe ECommerce Logo](/Documents/Logos/ConnectMeLogo.png)
+
 
 ![Magento ECommerce Logo](https://www.infyways.com/wp-content/uploads/2011/08/magento-logo.png?x52557)
 
