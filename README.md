@@ -20,4 +20,4 @@ It is the missing thing in the marketing chain.
 
 ####[IOS-APP: Sakal Andrej](http://github.com/SakalAndrej)
 
-####[Android-APP: Hofman Felix](#)
+####[Android-APP: Hofman Felix](http://github.com/felixhofmann)
