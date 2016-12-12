@@ -2,10 +2,9 @@
 
 ![ConnectMe ECommerce Logo](/Documents/Logos/ConnectMeLogo.png)
 
+## What is Magento?
 
 ![Magento ECommerce Logo](https://www.infyways.com/wp-content/uploads/2011/08/magento-logo.png?x52557)
-
-## What is Magento?
 
 Magento is a leading enterprise-class eCommerce platform, empowering over 200,000 online shop owner to date and chosen by 1 of every 4 online businesses.Offering powerful and flexible features Magento’s intuitive administration interface provides advanced marketing, search engine optimisation and catalogue-management tools to control the look, content and functionality of every retailer’s unique business requirements.Designed to be completely scalable and offering optimal performance, Magento Enterprise Edition provides a package of exclusive features both in the backend and frontend to optimise marketing and analytical techniques and improve administration options. All of which dramatically increase the shopping experience of your customers.
 
